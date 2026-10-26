@@ -8,6 +8,7 @@ A collection of **MIDI files** organized by artist, with direct downloads and **
 midi-songs/
 ├── JVKE/
 │   ├── golden hour.mid
+│   ├── her.mid
 │   └── this is what falling in love feels like.mid
 ├── Yungatita/
 │   └── 7 Weeks & 3 Days.mid
@@ -21,6 +22,7 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | golden hour | [View MIDI](./JVKE/golden%20hour.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/golden%20hour.mid) |
+| her | [View MIDI](./JVKE/her.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/her.mid) |
 | this is what falling in love feels like | [View MIDI](./JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) |
 
 ### Yungatita
