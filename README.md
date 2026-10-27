@@ -6,12 +6,14 @@ A collection of **MIDI files** organized by artist, with direct downloads and **
 
 ```text
 midi-songs/
+├── HOME/
+│   └── Resonance.mid
+├── Herms Niel/
+│   └── Erika.mid
 ├── JVKE/
 │   ├── golden hour.mid
 │   ├── her.mid
 │   └── this is what falling in love feels like.mid
-├── HOME/
-│   └── Resonance.mid
 ├── Yungatita/
 │   └── 7 Weeks & 3 Days.mid
 └── README.md
@@ -24,6 +26,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | Resonance | [View MIDI](./HOME/Resonance.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/HOME/Resonance.mid) |
+
+### Herms Niel
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Erika | [View MIDI](./Herms%20Niel/Erika.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Herms%20Niel/Erika.mid) |
 
 ### JVKE
 
