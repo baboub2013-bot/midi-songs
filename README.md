@@ -10,6 +10,8 @@ midi-songs/
 │   └── Resonance.mid
 ├── Herms Niel/
 │   └── Erika.mid
+├── Jack Stauber/
+│   └── Oh Klahoma.mid
 ├── JVKE/
 │   ├── golden hour.mid
 │   ├── her.mid
@@ -32,6 +34,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | Erika | [View MIDI](./Herms%20Niel/Erika.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Herms%20Niel/Erika.mid) |
+
+### Jack Stauber
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Oh Klahoma | [View MIDI](./Jack%20Stauber/Oh%20Klahoma.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Jack%20Stauber/Oh%20Klahoma.mid) |
 
 ### JVKE
 
