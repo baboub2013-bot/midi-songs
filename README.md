@@ -18,6 +18,8 @@ midi-songs/
 │   └── this is what falling in love feels like.mid
 ├── mthu/
 │   └── it's like i'm not even here.mid
+├── The Stranglers/
+│   └── Golden Brown.mid
 ├── Yungatita/
 │   └── 7 Weeks & 3 Days.mid
 └── README.md
@@ -56,6 +58,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | it's like i'm not even here | [View MIDI](./mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) |
+
+### The Stranglers
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Golden Brown | [View MIDI](./The%20Stranglers/Golden%20Brown.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/The%20Stranglers/Golden%20Brown.mid) |
 
 ### Yungatita
 
