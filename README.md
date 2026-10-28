@@ -10,16 +10,24 @@ midi-songs/
 │   └── Resonance.mid
 ├── Herms Niel/
 │   └── Erika.mid
+├── hisohkah/
+│   └── School Rooftop.mid
+├── Instupendo/
+│   └── Comfort Chain.mid
 ├── Jack Stauber/
 │   └── Oh Klahoma.mid
 ├── JVKE/
 │   ├── golden hour.mid
 │   ├── her.mid
 │   └── this is what falling in love feels like.mid
+├── Molina/
+│   └── Hey Kids.mid
 ├── mthu/
 │   └── it's like i'm not even here.mid
 ├── The Stranglers/
 │   └── Golden Brown.mid
+├── Toby Fox/
+│   └── Fallen Down.mid
 ├── Yungatita/
 │   └── 7 Weeks & 3 Days.mid
 └── README.md
@@ -39,6 +47,18 @@ midi-songs/
 | --- | --- | --- |
 | Erika | [View MIDI](./Herms%20Niel/Erika.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Herms%20Niel/Erika.mid) |
 
+### hisohkah
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| School Rooftop | [View MIDI](./hisohkah/School%20Rooftop.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/hisohkah/School%20Rooftop.mid) |
+
+### Instupendo
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Comfort Chain | [View MIDI](./Instupendo/Comfort%20Chain.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Instupendo/Comfort%20Chain.mid) |
+
 ### Jack Stauber
 
 | Song | File | Direct RAW link |
@@ -53,6 +73,12 @@ midi-songs/
 | her | [View MIDI](./JVKE/her.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/her.mid) |
 | this is what falling in love feels like | [View MIDI](./JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) |
 
+### Molina
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Hey Kids (feat. Late Verlane) | [View MIDI](./Molina/Hey%20Kids.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Molina/Hey%20Kids.mid) |
+
 ### mthu
 
 | Song | File | Direct RAW link |
@@ -64,6 +90,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | Golden Brown | [View MIDI](./The%20Stranglers/Golden%20Brown.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/The%20Stranglers/Golden%20Brown.mid) |
+
+### Toby Fox
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Fallen Down | [View MIDI](./Toby%20Fox/Fallen%20Down.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Toby%20Fox/Fallen%20Down.mid) |
 
 ### Yungatita
 
