@@ -6,6 +6,8 @@ A collection of **MIDI files** organized by artist, with direct downloads and **
 
 ```text
 midi-songs/
+├── Estelle/
+│   └── American Boy - Piano.mid
 ├── HOME/
 │   └── Resonance.mid
 ├── Herms Niel/
@@ -36,6 +38,12 @@ midi-songs/
 ```
 
 ## 🎵 Available songs
+
+### Estelle
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| American Boy (feat. Kanye West) — Piano | [View MIDI](./Estelle/American%20Boy%20-%20Piano.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Estelle/American%20Boy%20-%20Piano.mid) |
 
 ### HOME
 
