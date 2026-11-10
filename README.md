@@ -20,6 +20,8 @@ midi-songs/
 │   ├── golden hour.mid
 │   ├── her.mid
 │   └── this is what falling in love feels like.mid
+├── Koji Kondo/
+│   └── Great Fairy Fountain.mid
 ├── Molina/
 │   └── Hey Kids.mid
 ├── mthu/
@@ -72,6 +74,12 @@ midi-songs/
 | golden hour | [View MIDI](./JVKE/golden%20hour.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/golden%20hour.mid) |
 | her | [View MIDI](./JVKE/her.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/her.mid) |
 | this is what falling in love feels like | [View MIDI](./JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/JVKE/this%20is%20what%20falling%20in%20love%20feels%20like.mid) |
+
+### Koji Kondo
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Great Fairy Fountain (The Legend of Zelda: Ocarina of Time) | [View MIDI](./Koji%20Kondo/Great%20Fairy%20Fountain.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Koji%20Kondo/Great%20Fairy%20Fountain.mid) |
 
 ### Molina
 
