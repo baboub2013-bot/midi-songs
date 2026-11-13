@@ -6,6 +6,8 @@ A collection of **MIDI files** organized by artist, with direct downloads and **
 
 ```text
 midi-songs/
+├── Cuntsniffer/
+│   └── Meant to Be.mid
 ├── Estelle/
 │   └── American Boy - Piano.mid
 ├── HOME/
@@ -38,6 +40,12 @@ midi-songs/
 ```
 
 ## 🎵 Available songs
+
+### Cuntsniffer
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Meant to Be (excerpt) | [View MIDI](./Cuntsniffer/Meant%20to%20Be.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Cuntsniffer/Meant%20to%20Be.mid) |
 
 ### Estelle
 
