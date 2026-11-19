@@ -30,6 +30,8 @@ midi-songs/
 │   └── Hey Kids.mid
 ├── mthu/
 │   └── it's like i'm not even here.mid
+├── Silo & Steven Cranberry/
+│   └── meaningful love.mid
 ├── The Stranglers/
 │   └── Golden Brown.mid
 ├── Toby Fox/
@@ -108,6 +110,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | it's like i'm not even here | [View MIDI](./mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) |
+
+### Silo & Steven Cranberry
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| meaningful love (feat. coye) | [View MIDI](./Silo%20%26%20Steven%20Cranberry/meaningful%20love.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Silo%20%26%20Steven%20Cranberry/meaningful%20love.mid) |
 
 ### The Stranglers
 
