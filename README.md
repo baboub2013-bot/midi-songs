@@ -37,6 +37,8 @@ midi-songs/
 │   └── I Can't Handle Change.mid
 ├── Silo & Steven Cranberry/
 │   └── meaningful love.mid
+├── The Little Dippers/
+│   └── Forever.mid
 ├── The Stranglers/
 │   └── Golden Brown.mid
 ├── Toby Fox/
@@ -134,6 +136,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | meaningful love (feat. coye) | [View MIDI](./Silo%20%26%20Steven%20Cranberry/meaningful%20love.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Silo%20%26%20Steven%20Cranberry/meaningful%20love.mid) |
+
+### The Little Dippers
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Forever | [View MIDI](./The%20Little%20Dippers/Forever.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/The%20Little%20Dippers/Forever.mid) |
 
 ### The Stranglers
 
