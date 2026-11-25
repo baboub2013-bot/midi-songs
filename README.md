@@ -30,6 +30,11 @@ midi-songs/
 │   └── Hey Kids.mid
 ├── mthu/
 │   └── it's like i'm not even here.mid
+├── Pixies/
+│   └── Where Is My Mind.mid
+├── Roar/
+│   ├── Christmas Kids.mid
+│   └── I Can't Handle Change.mid
 ├── Silo & Steven Cranberry/
 │   └── meaningful love.mid
 ├── The Stranglers/
@@ -110,6 +115,19 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | it's like i'm not even here | [View MIDI](./mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/mthu/it%27s%20like%20i%27m%20not%20even%20here.mid) |
+
+### Pixies
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Where Is My Mind? | [View MIDI](./Pixies/Where%20Is%20My%20Mind.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Pixies/Where%20Is%20My%20Mind.mid) |
+
+### Roar
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Christmas Kids | [View MIDI](./Roar/Christmas%20Kids.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Roar/Christmas%20Kids.mid) |
+| I Can't Handle Change | [View MIDI](./Roar/I%20Can%27t%20Handle%20Change.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Roar/I%20Can%27t%20Handle%20Change.mid) |
 
 ### Silo & Steven Cranberry
 
