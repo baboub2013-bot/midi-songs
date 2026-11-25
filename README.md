@@ -14,6 +14,8 @@ midi-songs/
 │   └── Resonance.mid
 ├── Herms Niel/
 │   └── Erika.mid
+├── Hidekazu Sakamoto/
+│   └── Drowning Love.mid
 ├── hisohkah/
 │   └── School Rooftop.mid
 ├── Instupendo/
@@ -73,6 +75,12 @@ midi-songs/
 | Song | File | Direct RAW link |
 | --- | --- | --- |
 | Erika | [View MIDI](./Herms%20Niel/Erika.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Herms%20Niel/Erika.mid) |
+
+### Hidekazu Sakamoto
+
+| Song | File | Direct RAW link |
+| --- | --- | --- |
+| Drowning Love (Chasing Kou, excerpt) | [View MIDI](./Hidekazu%20Sakamoto/Drowning%20Love.mid) | [Download / RAW](https://raw.githubusercontent.com/baboub2013-bot/midi-songs/main/Hidekazu%20Sakamoto/Drowning%20Love.mid) |
 
 ### hisohkah
 
